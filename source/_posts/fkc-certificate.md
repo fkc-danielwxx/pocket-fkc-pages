@@ -33,6 +33,10 @@ tags:
 
 ![Alt text](/pocket-fkc-pages/images/certificate/1444045715311_5.jpeg)
 
+![Alt text](/pocket-fkc-pages/images/certificate/1444045715721_6.jpeg)
+
+![Alt text](/pocket-fkc-pages/images/certificate/1444045716175_7.jpeg)
+
 认证科普：[FDA](http://baike.baidu.com/view/2306882.htm) [GMP](http://baike.baidu.com/view/6529236.htm)
         (*在美国也仅有5%获双重认证*)
 

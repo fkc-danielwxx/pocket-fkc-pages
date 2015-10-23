@@ -6,6 +6,8 @@
     "version": "3.1.1"
   },
   "dependencies": {
+    "bluebird": "^2.10.2",
+    "glob": "^5.0.15",
     "hexo": "^3.1.0",
     "hexo-deployer-git": "0.0.4",
     "hexo-generator-archive": "^0.1.2",
@@ -15,6 +17,7 @@
     "hexo-renderer-ejs": "^0.1.0",
     "hexo-renderer-marked": "^0.2.4",
     "hexo-renderer-stylus": "^0.3.0",
-    "hexo-server": "^0.1.2"
+    "hexo-server": "^0.1.2",
+    "lodash": "^3.10.1"
   }
 }
