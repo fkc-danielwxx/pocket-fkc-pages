@@ -1,5 +1,6 @@
 /**
  * Created by danielxiao on 15/10/23.
+ * 在根目录运行
  */
 
 var Promise = require('bluebird');
