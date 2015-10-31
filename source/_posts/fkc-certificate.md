@@ -2,48 +2,46 @@ title: FKC资质介绍
 date: 2015-10-05 23:14:23
 tags:
 ---
-#### **1.公司资质**
 
-查询网址：[www.fkcn.com](http://www.fkcn.com/portlets/fkccn/company/gotoLicense.do)
+---------------------------------------
 
-- 美国营业执照
+<div class="blue-panel-header">
+美国企业资质
+</div>
+<div class="blue-panel catalog">
 
-![Alt text](/pocket-fkc-pages/images/certificate/1444045714488_1.jpeg)
+[1. 美国营业执照](/pocket-fkc-pages/fkc-certificate-american-business-license)
 
-- 中国四川办事处证
+[2. 美国BBB企业认证](/pocket-fkc-pages/fkc-certificate-bbb)
 
-![Alt text](/pocket-fkc-pages/images/certificate/1444045714596_2.jpeg)
+</div>
 
-- 南沙子公司工商登记
+<div class="green-panel-header">
+中国企业资质
+</div>
+<div class="green-panel catalog">
 
-     查询网站：[www.gzaic.gov.cn](http://www.gzaic.gov.cn/GZAIC_Portal/WebUI/credit/qiyeInfo.htm)
+[1. 中国办事处登记证](/pocket-fkc-pages/fkc-certificate-chinese-office-registration)
 
-     输入子公司名称：广州菲葛馨保健食品贸易有限公司
+[2. 南沙子公司营业执照](/pocket-fkc-pages/fkc-certificate-chinese-nansha)
 
-![Alt text](/pocket-fkc-pages/images/certificate/1444045714857_3.jpeg)
+[3. 中国外商投资企业批准证](/pocket-fkc-pages/fkc-certificate-foreign-investment)
 
-- 外资全资注册证
+</div>
 
-![Alt text](/pocket-fkc-pages/images/certificate/1444045715073_4.jpeg)
+<div class="yellow-panel-header">
+产品认证
+</div>
+<div class="yellow-panel catalog">
 
+[1. 美国FDA认证](/pocket-fkc-pages/fkc-certificate-fda)
 
-#### **2.产品认证**
+[2. 美国GMP认证](/pocket-fkc-pages/fkc-certificate-gmp)
 
-查询网址：[www.fkcn.com](https://www.fkcn.com/portlets/fkccn/products/loadProductDetails.do?PRODUCT_ID=1430)
-
-![Alt text](/pocket-fkc-pages/images/certificate/1444045715311_5.jpeg)
-
-![Alt text](/pocket-fkc-pages/images/certificate/1444045715721_6.jpeg)
-
-![Alt text](/pocket-fkc-pages/images/certificate/1444045716175_7.jpeg)
-
-认证科普：[FDA](http://baike.baidu.com/view/2306882.htm) [GMP](http://baike.baidu.com/view/6529236.htm)
-        (*在美国也仅有5%获双重认证*)
+</div>
 
 
-#### **3.美国BBB最佳企业证明**
 
-查询网址：[www.bbb.org](http://www.bbb.org/sanjose/business-reviews/health-and-diet-products-retail/fkc-international-in-walnut-ca-13212036)
 
-科普知识：[BBB](http://baike.baidu.com/view/9131649.htm)
-        (*信用评价级别从最高到最低为A+和F，FKC为最高级别A+，亚马逊也是这个级别*)
+
+
