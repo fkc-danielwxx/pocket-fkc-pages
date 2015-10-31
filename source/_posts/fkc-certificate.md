@@ -23,7 +23,7 @@ tags:
 
 [1. 中国办事处登记证](/pocket-fkc-pages/fkc-certificate-chinese-office-registration)
 
-[2. 南沙子公司营业执照](/pocket-fkc-pages/fkc-certificate-chinese-nansha)
+[2. 中国南沙子公司营业执照](/pocket-fkc-pages/fkc-certificate-chinese-nansha)
 
 [3. 中国外商投资企业批准证](/pocket-fkc-pages/fkc-certificate-foreign-investment)
 
