@@ -5,7 +5,7 @@ tags:
 
 ---------------------------------------
 
-![Alt text](/pocket-fkc-pages/images/certificate/1444045714488_1.gif)
+<img class="lazy" src="http://pocket-fkc.image.alimmdn.com/fkc_page_banner_placeholder.png@320w" data-original="/pocket-fkc-pages/images/certificate/1444045714488_1.gif">
 
 <div class="blue-panel-header">
 如何查询
@@ -19,11 +19,11 @@ tags:
 
    Entity Name： ***FKC***
 
-   ![Alt text](/pocket-fkc-pages/images/certificate/american_business_license_check.jpg)
+<img class="lazy" src="http://pocket-fkc.image.alimmdn.com/fkc_page_banner_placeholder.png@320w" data-original="/pocket-fkc-pages/images/certificate/american_business_license_check.jpg">
 
 **3. 查看查询结果：**
 
-   ![Alt text](/pocket-fkc-pages/images/certificate/american_business_license_check_result.jpg)
+<img class="lazy" src="http://pocket-fkc.image.alimmdn.com/fkc_page_banner_placeholder.png@320w" data-original="/pocket-fkc-pages/images/certificate/american_business_license_check_result.jpg">
 </div>
 
 

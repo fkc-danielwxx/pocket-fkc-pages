@@ -5,5 +5,5 @@ tags:
 
 ---------------------------------------
 
-![Alt text](/pocket-fkc-pages/images/certificate/1444045715073_4.jpeg)
+<img class="lazy" src="http://pocket-fkc.image.alimmdn.com/fkc_page_banner_placeholder.png@320w" data-original="/pocket-fkc-pages/images/certificate/1444045715073_4.jpeg">
 
