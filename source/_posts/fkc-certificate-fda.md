@@ -5,9 +5,9 @@ tags:
 
 ---------------------------------------
 
-<img class="lazy" src="http://pocket-fkc.image.alimmdn.com/fkc_page_banner_placeholder.png@320w" data-original="/pocket-fkc-pages/images/certificate/FDA_GMP_2015_1.jpg">
+<img class="lazy" src="http://pocket-fkc.image.alimmdn.com/fkc_page_banner_placeholder.png@320w" data-original="http://pocket-fkc.image.alimmdn.com/fkc-pages/certificate/FDA_GMP_2015_1.jpg">
 
-<img class="lazy" src="http://pocket-fkc.image.alimmdn.com/fkc_page_banner_placeholder.png@320w" data-original="/pocket-fkc-pages/images/certificate/FDA_GMP_2015_2.jpg">
+<img class="lazy" src="http://pocket-fkc.image.alimmdn.com/fkc_page_banner_placeholder.png@320w" data-original="http://pocket-fkc.image.alimmdn.com/fkc-pages/certificate/FDA_GMP_2015_2.jpg">
 
 <div class="blue-panel-header">
 FDA简介

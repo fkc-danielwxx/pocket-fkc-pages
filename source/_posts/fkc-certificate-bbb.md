@@ -5,7 +5,7 @@ tags:
 
 ---------------------------------------
 
-<img class="lazy" src="http://pocket-fkc.image.alimmdn.com/fkc_page_banner_placeholder.png@320w" data-original="/pocket-fkc-pages/images/certificate/bbb_image.jpg">
+<img class="lazy" src="http://pocket-fkc.image.alimmdn.com/fkc_page_banner_placeholder.png@320w" data-original="http://pocket-fkc.image.alimmdn.com/fkc-pages/certificate/bbb_image.jpg">
 
 <div class="blue-panel-header">
 BBB简介

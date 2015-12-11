@@ -5,7 +5,7 @@ tags:
 
 ---------------------------------------
 
-<img class="lazy" src="http://pocket-fkc.image.alimmdn.com/fkc_page_banner_placeholder.png@320w" data-original="/pocket-fkc-pages/images/certificate/1444045714596_2.jpeg">
+<img class="lazy" src="http://pocket-fkc.image.alimmdn.com/fkc_page_banner_placeholder.png@320w" data-original="http://pocket-fkc.image.alimmdn.com/fkc-pages/certificate/1444045714596_2.jpeg">
 
 <div class="blue-panel-header">
 如何查询
@@ -15,7 +15,7 @@ tags:
 
 2. 输入“*美国FKC国际* ”进行查询
 
-<img class="lazy" src="http://pocket-fkc.image.alimmdn.com/fkc_page_banner_placeholder.png@320w" data-original="/pocket-fkc-pages/images/certificate/sichuan_search_result.jpg">
+<img class="lazy" src="http://pocket-fkc.image.alimmdn.com/fkc_page_banner_placeholder.png@320w" data-original="http://pocket-fkc.image.alimmdn.com/fkc-pages/certificate/sichuan_search_result.jpg">
 </div>
 
 

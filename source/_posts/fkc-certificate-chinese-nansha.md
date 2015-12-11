@@ -5,7 +5,7 @@ tags:
 
 ---------------------------------------
 
-<img class="lazy" src="http://pocket-fkc.image.alimmdn.com/fkc_page_banner_placeholder.png@320w" data-original="/pocket-fkc-pages/images/certificate/1444045714857_3.jpeg">
+<img class="lazy" src="http://pocket-fkc.image.alimmdn.com/fkc_page_banner_placeholder.png@320w" data-original="http://pocket-fkc.image.alimmdn.com/fkc-pages/certificate/1444045714857_3.jpeg">
 
 <div class="blue-panel-header">
 如何查询
@@ -15,7 +15,7 @@ tags:
 
 2. 输入子公司名称“*广州菲葛馨保健食品贸易有限公司* ”进行查询
 
-<img class="lazy" src="http://pocket-fkc.image.alimmdn.com/fkc_page_banner_placeholder.png@320w" data-original="/pocket-fkc-pages/images/certificate/nansha_search_result.jpg">
+<img class="lazy" src="http://pocket-fkc.image.alimmdn.com/fkc_page_banner_placeholder.png@320w" data-original="http://pocket-fkc.image.alimmdn.com/fkc-pages/certificate/nansha_search_result.jpg">
 </div>
 
 
