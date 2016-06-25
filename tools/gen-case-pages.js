@@ -18,6 +18,9 @@ var pageContent = 'title: {title}\n' +
                   '---------------------------------------\n\n';
 
 var caseMaps = {
+  latest: {
+    title: '最近更新'
+  },
   breathe: {
     title: '呼吸系统'
   },
@@ -54,7 +57,7 @@ glob(basePath).then(function(files) {
         var pathArray = img.split('/');
         var imgName = pathArray.pop();
         dirName = pathArray.pop();
-        var imgUrlTxt = '![Alt text](/pocket-fkc-pages/images/cases/' + dirName + '/' + imgName + ')\n';
+        var imgUrlTxt = '<img class="lazy" src="http://pocket-fkc.image.alimmdn.com/fkc_page_banner_placeholder.png@320w" data-original="http://pocket-fkc.image.alimmdn.com/fkc-pages/cases/' + dirName + '/' + imgName + '@480w">\n';
         return imgUrlTxt;
       });
       var content = pageContent.replace('{title}', caseMaps[dirName].title) + imgContent.join('');
