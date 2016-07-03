@@ -57,7 +57,7 @@ glob(basePath).then(function(files) {
         var pathArray = img.split('/');
         var imgName = pathArray.pop();
         dirName = pathArray.pop();
-        var imgUrlTxt = '<img class="lazy" src="http://pocket-fkc.image.alimmdn.com/fkc_page_banner_placeholder.png@320w" data-original="http://pocket-fkc.image.alimmdn.com/fkc-pages/cases/' + dirName + '/' + imgName + '@480w">\n';
+        var imgUrlTxt = '<img class="lazy" src="http://pocket-fkc.image.alimmdn.com/fkc_page_banner_placeholder.png@320w" data-original="http://pocket-fkc.image.alimmdn.com/fkc-pages/cases/' + dirName + '/' + imgName + '@600w">\n';
         return imgUrlTxt;
       });
       var content = pageContent.replace('{title}', caseMaps[dirName].title) + imgContent.join('');
